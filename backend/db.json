@@ -1,0 +1,29 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Febri Wijaya",
+      "nohp": "08234234234"
+    },
+    {
+      "id": 2,
+      "nama": "Eko sujiwo",
+      "nohp": "08934353454"
+    },
+    {
+      "nama": "sdfsd",
+      "nohp": "0857412312312",
+      "id": 3
+    },
+    {
+      "nama": "asdas",
+      "nohp": "234234",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nama": "22342sdfsdfs",
+      "nohp": "34534534"
+    }
+  ]
+}
